@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npm install:*)",
+      "Bash(node -e \"require\\(''framer-motion''\\); console.log\\(''ok'', require\\(''./node_modules/framer-motion/package.json''\\).version\\)\")",
+      "Bash(echo 'no public dir' find 'C:\\\\Users\\\\caua\\\\Downloads\\\\Alva Sorrisos' -name *.jpg -o -name *.png -o -name *.jpeg -o -name *.webp)",
+      "Bash(find C:UserscauaDownloads -maxdepth 2 -name melhore* 2)",
+      "Bash(/dev/null ls:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
