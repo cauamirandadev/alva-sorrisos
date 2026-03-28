@@ -9,7 +9,10 @@
       "Bash(echo 'no public dir' find 'C:\\\\Users\\\\caua\\\\Downloads\\\\Alva Sorrisos' -name *.jpg -o -name *.png -o -name *.jpeg -o -name *.webp)",
       "Bash(find C:UserscauaDownloads -maxdepth 2 -name melhore* 2)",
       "Bash(/dev/null ls:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(npx next:*)",
+      "Bash(./node_modules/.bin/eslint src:*)",
+      "Bash(cd:*)"
     ]
   }
 }
